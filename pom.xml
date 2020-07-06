@@ -150,6 +150,7 @@
         <module>presto-thrift-testing-server</module>
         <module>presto-tpcds</module>
         <module>presto-tpch</module>
+        <module>presto-twitter</module>
         <module>presto-verifier</module>
     </modules>
 
